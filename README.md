@@ -16,7 +16,7 @@ This repository contains Python notebooks designed to preprocess data, implement
    - Creates a vector database from the preprocessed dataset.
    - Key Features:
      - Converts textual data into embeddings.
-     - Stores embeddings for efficient retrieval in the RAG pipeline.
+     - Stores embeddings for efficient retrieval in the RAG pipeline with relevant metadata.
      - Optimized for scalability and fast query execution.
 
 3. **RAG.ipynb**
@@ -56,4 +56,4 @@ Contributions are welcome! Please open an issue or submit a pull request to sugg
 ## Acknowledgments
 - Yelp Dataset for providing rich and diverse data.
 - OpenAI for their LLM APIs.
-- Developers and contributors to open-source libraries used in this project.
+- Developers and contributors to open-source libraries used in this project (Yash Rao, Shreyansh Kumar, Palak Kothari).
