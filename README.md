@@ -1,5 +1,5 @@
 
-# Yelp Dataset Recommendation System
+# Personalized Restaurant And Cafe Recommendation System
 
 This repository contains Python notebooks designed to preprocess data, implement a Retrieval-Augmented Generation (RAG) system, and create a vector database using the Yelp Dataset. These notebooks collectively enable a recommendation system that provides personalized suggestions for restaurants and cafes based on user queries.
 
