@@ -49,6 +49,7 @@ This repository contains Python notebooks designed to preprocess data, implement
 - Geoloacation Filtering
 - Add support for additional datasets and multilingual queries.
 - Implement a web-based interface for end-user interactions.
+- Add agent support
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request to suggest improvements or add features.
